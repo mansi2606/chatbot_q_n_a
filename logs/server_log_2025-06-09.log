@@ -1,0 +1,18 @@
+2025-06-09 15:46:29,500 - INFO - Loading faiss.
+2025-06-09 15:46:29,642 - INFO - Successfully loaded faiss.
+2025-06-09 15:46:29,645 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-06-09 15:47:07,522 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-06-09 15:47:07,523 - INFO - Retrying request to /embeddings in 0.472993 seconds
+2025-06-09 15:47:08,493 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-06-09 15:47:08,494 - INFO - Retrying request to /embeddings in 0.902895 seconds
+2025-06-09 15:47:09,912 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-06-09 15:47:09,914 - ERROR - Error in /ask/ | ID: 0ba2da07-f8bc-4e56-873a-100ce6d95be1 | Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-06-09 15:51:27,555 - INFO - Loading faiss.
+2025-06-09 15:51:27,566 - INFO - Successfully loaded faiss.
+2025-06-09 15:51:27,568 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-06-09 15:51:44,748 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-06-09 15:51:44,749 - INFO - Retrying request to /embeddings in 0.403653 seconds
+2025-06-09 15:51:45,758 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-06-09 15:51:45,759 - INFO - Retrying request to /embeddings in 0.850003 seconds
+2025-06-09 15:51:47,199 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 429 Too Many Requests"
+2025-06-09 15:51:47,200 - ERROR - Error in /ask/ | ID: f9dc38f2-4741-4144-a411-aaa94992ca01 | Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}

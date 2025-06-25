@@ -1,0 +1,67 @@
+2025-05-09 17:06:15,547 - INFO - Loading faiss.
+2025-05-09 17:06:15,571 - INFO - Successfully loaded faiss.
+2025-05-09 17:06:15,574 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-09 17:08:22,431 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-09 17:08:22,444 - INFO - /ask/ profile: {'request_id': '00e51ec3-05d9-4a26-8e10-cf5ed9a0e434', 'question': 'which funds would give me maximum 70% return if I have a high risk profile?', 'vector_search_ms': 4286.52, 'stream_setup_ms': 0.0, 'backend_total_ms': 4286.57}
+2025-05-09 17:08:22,451 - INFO - 🧠 GPT stream started...
+2025-05-09 17:08:23,795 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-09 17:08:23,975 - INFO - 🧠 First GPT token received after 1.52s
+2025-05-09 17:08:25,917 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:08:25,920 - INFO - 🔊 First audio chunk sent after 3.47s
+2025-05-09 17:08:25,960 - INFO - 🎤 TTS chunk time: 1.32s
+2025-05-09 17:08:26,632 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:08:26,749 - INFO - 🎤 TTS chunk time: 0.79s
+2025-05-09 17:08:27,424 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:08:27,489 - INFO - 🎤 TTS chunk time: 0.73s
+2025-05-09 17:08:28,165 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:08:28,247 - INFO - 🎤 TTS chunk time: 0.75s
+2025-05-09 17:08:28,779 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:08:28,823 - INFO - 🎤 TTS chunk time: 0.57s
+2025-05-09 17:08:29,362 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:08:29,375 - INFO - 🎤 TTS chunk time: 0.55s
+2025-05-09 17:08:29,903 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:08:29,941 - INFO - 🎤 TTS chunk time: 0.56s
+2025-05-09 17:08:29,942 - INFO - ✅ Total GPT-to-TTS stream time: 7.49s
+2025-05-09 17:11:23,697 - INFO - Loading faiss.
+2025-05-09 17:11:23,706 - INFO - Successfully loaded faiss.
+2025-05-09 17:11:23,708 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-09 17:14:20,202 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-09 17:14:20,231 - INFO - /ask/ profile: {'request_id': '07ae1748-7245-4abd-9158-afe71bf7db26', 'question': 'which funds should I but if I have a high risk profile for an equity asset allocation with a maximum return of 70%', 'vector_search_ms': 947.22, 'stream_setup_ms': 0.0, 'backend_total_ms': 947.35}
+2025-05-09 17:14:20,238 - INFO - 🧠 GPT stream started...
+2025-05-09 17:14:21,326 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-09 17:14:21,441 - INFO - 🧠 First GPT token received after 1.20s
+2025-05-09 17:14:22,636 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:14:22,637 - INFO - 🔊 First audio chunk sent after 2.40s
+2025-05-09 17:14:22,918 - INFO - 🎤 TTS chunk time: 1.05s
+2025-05-09 17:14:23,491 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:14:23,729 - INFO - 🎤 TTS chunk time: 0.81s
+2025-05-09 17:14:24,377 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:14:24,733 - INFO - 🎤 TTS chunk time: 1.00s
+2025-05-09 17:14:25,335 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:14:25,529 - INFO - 🎤 TTS chunk time: 0.79s
+2025-05-09 17:14:26,112 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:14:26,253 - INFO - 🎤 TTS chunk time: 0.72s
+2025-05-09 17:14:26,811 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:14:26,869 - INFO - 🎤 TTS chunk time: 0.61s
+2025-05-09 17:14:27,363 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:14:27,463 - INFO - 🎤 TTS chunk time: 0.59s
+2025-05-09 17:14:27,933 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:14:27,951 - INFO - 🎤 Final TTS chunk time: 0.48s
+2025-05-09 17:14:27,951 - INFO - ✅ Total GPT-to-TTS stream time: 7.71s
+2025-05-09 17:24:42,068 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-09 17:24:42,073 - INFO - /ask/ profile: {'request_id': 'fdb8f7b4-3799-457d-8405-abb273b15870', 'question': 'give me fund names for a high risk profile with a maximum return of 70%', 'vector_search_ms': 661.14, 'stream_setup_ms': 0.0, 'backend_total_ms': 661.33}
+2025-05-09 17:24:42,075 - INFO - 🧠 GPT stream started...
+2025-05-09 17:24:42,878 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-09 17:24:42,987 - INFO - 🧠 First GPT token received after 0.91s
+2025-05-09 17:24:43,957 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:24:43,962 - INFO - 🔊 First audio chunk sent after 1.89s
+2025-05-09 17:24:44,046 - INFO - 🎤 TTS chunk time: 0.85s
+2025-05-09 17:24:44,664 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:24:44,861 - INFO - 🎤 TTS chunk time: 0.81s
+2025-05-09 17:24:45,564 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:24:45,678 - INFO - 🎤 TTS chunk time: 0.81s
+2025-05-09 17:24:46,332 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:24:46,388 - INFO - 🎤 TTS chunk time: 0.71s
+2025-05-09 17:24:46,972 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-09 17:24:47,021 - INFO - 🎤 TTS chunk time: 0.63s
+2025-05-09 17:24:47,022 - INFO - ✅ Total GPT-to-TTS stream time: 4.95s

@@ -1,0 +1,126 @@
+2025-04-24 15:59:10,965 - INFO - Loading faiss.
+2025-04-24 15:59:10,983 - INFO - Successfully loaded faiss.
+2025-04-24 15:59:10,986 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-24 15:59:26,478 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 15:59:26,513 - INFO - /ask/ profile: {'request_id': 'b104f049-fc36-46ea-84ad-1607fc7a9ec7', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 812.74, 'stream_setup_ms': 0.0, 'backend_total_ms': 812.81}
+2025-04-24 15:59:27,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 15:59:28,986 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 15:59:29,660 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 15:59:30,413 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 15:59:31,132 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 15:59:31,754 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:00:02,987 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:00:02,991 - INFO - /ask/ profile: {'request_id': '9453d9f1-9f36-4754-b302-488cda499fa8', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 682.83, 'stream_setup_ms': 0.0, 'backend_total_ms': 682.86}
+2025-04-24 16:00:03,725 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:00:05,358 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:00:06,364 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:00:06,993 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:00:07,701 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:00:08,360 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:00:09,087 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:00:09,722 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:00:59,784 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:00:59,788 - INFO - /ask/ profile: {'request_id': '3bae15ee-60e3-4207-ad86-ad3ef45c04a8', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 588.04, 'stream_setup_ms': 0.0, 'backend_total_ms': 588.07}
+2025-04-24 16:01:00,563 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:01:01,937 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:02,566 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:03,183 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:03,757 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:04,505 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:05,332 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:39,394 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:01:39,397 - INFO - /ask/ profile: {'request_id': 'f3808de8-c4ed-4bfa-a9b0-3756a77205c3', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 1003.15, 'stream_setup_ms': 0.0, 'backend_total_ms': 1003.19}
+2025-04-24 16:01:40,139 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:01:41,530 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:42,251 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:42,986 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:43,541 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:44,294 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:45,022 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:01:45,650 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:03:05,526 - INFO - Loading faiss.
+2025-04-24 16:03:05,534 - INFO - Successfully loaded faiss.
+2025-04-24 16:03:05,536 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-24 16:03:18,012 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:03:18,025 - INFO - /ask/ profile: {'request_id': 'a49f665c-b4a5-416a-9533-a77f16760a31', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 725.46, 'stream_setup_ms': 0.01, 'backend_total_ms': 725.53}
+2025-04-24 16:03:18,652 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:03:19,961 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:03:20,615 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:03:21,336 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:03:21,948 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:03:22,634 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:03:23,268 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:05:16,437 - INFO - Loading faiss.
+2025-04-24 16:05:16,445 - INFO - Successfully loaded faiss.
+2025-04-24 16:05:16,448 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-24 16:05:35,014 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:05:35,029 - INFO - /ask/ profile: {'request_id': 'da7473de-6784-4a92-837a-8b6d5cabed17', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 672.84, 'stream_setup_ms': 0.0, 'backend_total_ms': 672.89}
+2025-04-24 16:05:35,918 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:05:37,258 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:05:37,818 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:05:38,503 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:05:39,204 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:05:40,015 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:05:40,760 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:07:50,636 - INFO - Loading faiss.
+2025-04-24 16:07:50,644 - INFO - Successfully loaded faiss.
+2025-04-24 16:07:50,647 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-24 16:07:59,052 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:07:59,067 - INFO - /ask/ profile: {'request_id': '1233f403-873e-4e6f-be79-b1f4019ce7f0', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 1033.1, 'stream_setup_ms': 0.01, 'backend_total_ms': 1033.18}
+2025-04-24 16:07:59,779 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:08:01,282 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:08:02,047 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:08:02,763 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:08:03,505 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:08:04,255 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:08:04,853 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:08:05,397 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:09:50,234 - INFO - Loading faiss.
+2025-04-24 16:09:50,242 - INFO - Successfully loaded faiss.
+2025-04-24 16:09:50,245 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-24 16:10:02,609 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:10:02,638 - INFO - /ask/ profile: {'request_id': 'bf6933f6-fcf6-454e-9c6d-ca4c1b0a712f', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 1201.56, 'stream_setup_ms': 0.01, 'backend_total_ms': 1201.77}
+2025-04-24 16:10:03,374 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:10:04,793 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:10:05,442 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:10:06,137 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:10:06,762 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:10:07,434 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:10:08,188 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:10:08,908 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:10:09,470 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:07,303 - INFO - Loading faiss.
+2025-04-24 16:13:07,312 - INFO - Successfully loaded faiss.
+2025-04-24 16:13:07,315 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-24 16:13:19,536 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:13:19,552 - INFO - /ask/ profile: {'request_id': 'acaa0ae7-9fba-4229-9c71-61cd83432da3', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 836.02, 'stream_setup_ms': 0.03, 'backend_total_ms': 836.49}
+2025-04-24 16:13:20,275 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:13:21,334 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:21,907 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:22,495 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:23,123 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:23,748 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:24,313 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:24,863 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:25,363 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:25,941 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:26,552 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:27,174 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:27,655 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:28,227 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:13:29,065 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:31,718 - INFO - Loading faiss.
+2025-04-24 16:17:31,726 - INFO - Successfully loaded faiss.
+2025-04-24 16:17:31,729 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-04-24 16:17:41,848 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-04-24 16:17:41,877 - INFO - /ask/ profile: {'request_id': 'd422809a-81fe-493d-bc9e-d41d1ebe7482', 'question': 'what if I dont pay my premum for 2 years', 'vector_search_ms': 968.54, 'stream_setup_ms': 0.01, 'backend_total_ms': 968.75}
+2025-04-24 16:17:42,782 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-24 16:17:44,084 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:44,738 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:45,369 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:46,029 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:46,700 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:47,348 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:47,935 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:48,533 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-04-24 16:17:49,176 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"

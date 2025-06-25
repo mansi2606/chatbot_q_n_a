@@ -1,0 +1,69 @@
+2025-05-22 14:52:42,625 - INFO - Loading faiss.
+2025-05-22 14:52:42,752 - INFO - Successfully loaded faiss.
+2025-05-22 14:52:42,755 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-22 14:54:02,031 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 14:54:02,050 - INFO - /ask/ profile: {'request_id': '9636c7d2-a709-445a-b743-5c0a407e6bc8', 'question': 'abhi tak madam', 'vector_search_ms': 4215.4, 'stream_setup_ms': 0.0, 'backend_total_ms': 4215.48}
+2025-05-22 14:54:02,063 - INFO - 🧠 GPT stream started...
+2025-05-22 14:54:05,638 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 14:54:05,676 - INFO - 🧠 First GPT token received after 3.61s
+2025-05-22 14:54:06,613 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:54:06,617 - INFO - 🔊 First audio chunk sent after 4.55s
+2025-05-22 14:54:06,648 - INFO - 🎤 TTS chunk time: 0.84s
+2025-05-22 14:54:07,176 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:54:07,206 - INFO - 🎤 TTS chunk time: 0.56s
+2025-05-22 14:54:07,891 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:54:08,003 - INFO - 🎤 TTS chunk time: 0.79s
+2025-05-22 14:54:08,487 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:54:08,503 - INFO - 🎤 TTS chunk time: 0.50s
+2025-05-22 14:54:08,505 - INFO - ✅ Total GPT-to-TTS stream time: 6.44s
+2025-05-22 14:56:26,244 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 500 Internal Server Error"
+2025-05-22 14:56:26,245 - INFO - Retrying request to /embeddings in 0.376058 seconds
+2025-05-22 14:56:36,158 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 500 Internal Server Error"
+2025-05-22 14:56:36,159 - INFO - Retrying request to /embeddings in 0.992425 seconds
+2025-05-22 14:56:37,883 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 14:56:37,890 - INFO - /ask/ profile: {'request_id': 'a9e6f5aa-4ce6-4e6b-af86-9501cc5781e5', 'question': 'what is this policy about  hello hello hello', 'vector_search_ms': 20409.47, 'stream_setup_ms': 0.01, 'backend_total_ms': 20409.75}
+2025-05-22 14:56:37,893 - INFO - 🧠 GPT stream started...
+2025-05-22 14:56:38,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 14:56:38,522 - INFO - 🧠 First GPT token received after 0.63s
+2025-05-22 14:56:39,453 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:56:39,457 - INFO - 🔊 First audio chunk sent after 1.56s
+2025-05-22 14:56:39,506 - INFO - 🎤 TTS chunk time: 0.70s
+2025-05-22 14:56:40,128 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:56:40,177 - INFO - 🎤 TTS chunk time: 0.66s
+2025-05-22 14:56:40,711 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:56:40,752 - INFO - 🎤 TTS chunk time: 0.57s
+2025-05-22 14:56:41,323 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:56:41,343 - INFO - 🎤 TTS chunk time: 0.58s
+2025-05-22 14:56:41,344 - INFO - ✅ Total GPT-to-TTS stream time: 3.45s
+2025-05-22 14:58:53,722 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 14:58:53,740 - INFO - /ask/ profile: {'request_id': '87c5cebf-2bce-4495-8d28-9fef98e6afa6', 'question': 'hello', 'vector_search_ms': 791.82, 'stream_setup_ms': 0.01, 'backend_total_ms': 792.35}
+2025-05-22 14:58:53,745 - INFO - 🧠 GPT stream started...
+2025-05-22 14:58:54,255 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 14:58:54,324 - INFO - 🧠 First GPT token received after 0.58s
+2025-05-22 14:58:54,987 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:58:54,995 - INFO - 🔊 First audio chunk sent after 1.25s
+2025-05-22 14:58:55,016 - INFO - 🎤 TTS chunk time: 0.58s
+2025-05-22 14:58:55,590 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:58:55,625 - INFO - 🎤 TTS chunk time: 0.60s
+2025-05-22 14:58:56,178 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:58:56,207 - INFO - 🎤 TTS chunk time: 0.58s
+2025-05-22 14:58:56,746 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:58:56,777 - INFO - 🎤 TTS chunk time: 0.57s
+2025-05-22 14:58:57,269 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:58:57,278 - INFO - 🎤 Final TTS chunk time: 0.50s
+2025-05-22 14:58:57,279 - INFO - ✅ Total GPT-to-TTS stream time: 3.53s
+2025-05-22 14:59:37,282 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-22 14:59:37,287 - INFO - /ask/ profile: {'request_id': '52ffd6c8-f73c-46d4-a779-17bc49cfb4ab', 'question': 'hello hello hello hello', 'vector_search_ms': 845.37, 'stream_setup_ms': 0.0, 'backend_total_ms': 845.59}
+2025-05-22 14:59:37,288 - INFO - 🧠 GPT stream started...
+2025-05-22 14:59:37,901 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-22 14:59:38,132 - INFO - 🧠 First GPT token received after 0.84s
+2025-05-22 14:59:38,706 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:59:38,708 - INFO - 🔊 First audio chunk sent after 1.42s
+2025-05-22 14:59:38,740 - INFO - 🎤 TTS chunk time: 0.60s
+2025-05-22 14:59:39,271 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:59:39,299 - INFO - 🎤 TTS chunk time: 0.55s
+2025-05-22 14:59:39,824 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:59:39,852 - INFO - 🎤 TTS chunk time: 0.55s
+2025-05-22 14:59:40,396 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-22 14:59:40,427 - INFO - 🎤 TTS chunk time: 0.57s
+2025-05-22 14:59:40,428 - INFO - ✅ Total GPT-to-TTS stream time: 3.14s

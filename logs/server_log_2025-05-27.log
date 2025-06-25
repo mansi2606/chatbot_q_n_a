@@ -1,0 +1,41 @@
+2025-05-27 20:46:01,213 - INFO - Loading faiss.
+2025-05-27 20:46:01,252 - INFO - Successfully loaded faiss.
+2025-05-27 20:46:01,254 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes.
+2025-05-27 20:48:57,217 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-27 20:48:57,243 - INFO - /ask/ profile: {'request_id': '78250bb6-2ced-4d2a-be0b-a299b850a8dd', 'question': 'How does this policy help in wealth creation?', 'vector_search_ms': 7059.74, 'stream_setup_ms': 0.01, 'backend_total_ms': 7059.99}
+2025-05-27 20:48:57,254 - INFO - 🧠 GPT stream started...
+2025-05-27 20:49:00,543 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-27 20:49:00,834 - INFO - 🧠 First GPT token received after 3.58s
+2025-05-27 20:49:02,139 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:49:02,141 - INFO - 🔊 First audio chunk sent after 4.89s
+2025-05-27 20:49:02,241 - INFO - 🎤 TTS chunk time: 1.32s
+2025-05-27 20:49:02,821 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:49:02,890 - INFO - 🎤 TTS chunk time: 0.64s
+2025-05-27 20:49:03,534 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:49:03,625 - INFO - 🎤 TTS chunk time: 0.73s
+2025-05-27 20:49:04,310 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:49:04,340 - INFO - 🎤 TTS chunk time: 0.71s
+2025-05-27 20:49:04,983 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:49:05,043 - INFO - 🎤 TTS chunk time: 0.70s
+2025-05-27 20:49:05,627 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:49:05,673 - INFO - 🎤 TTS chunk time: 0.63s
+2025-05-27 20:49:06,302 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:49:06,348 - INFO - 🎤 TTS chunk time: 0.67s
+2025-05-27 20:49:06,812 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:49:06,822 - INFO - 🎤 Final TTS chunk time: 0.47s
+2025-05-27 20:49:06,822 - INFO - ✅ Total GPT-to-TTS stream time: 9.57s
+2025-05-27 20:52:00,886 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-05-27 20:52:00,895 - INFO - /ask/ profile: {'request_id': '24c10864-a2d8-4977-8331-98cb892c11f0', 'question': 'Can I Top up / invest additional amount anytime in this product?', 'vector_search_ms': 632.69, 'stream_setup_ms': 0.01, 'backend_total_ms': 632.94}
+2025-05-27 20:52:00,897 - INFO - 🧠 GPT stream started...
+2025-05-27 20:52:02,591 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-27 20:52:02,594 - INFO - 🧠 First GPT token received after 1.70s
+2025-05-27 20:52:03,371 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:52:03,374 - INFO - 🔊 First audio chunk sent after 2.48s
+2025-05-27 20:52:03,427 - INFO - 🎤 TTS chunk time: 0.70s
+2025-05-27 20:52:04,022 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:52:04,104 - INFO - 🎤 TTS chunk time: 0.67s
+2025-05-27 20:52:04,783 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:52:04,842 - INFO - 🎤 TTS chunk time: 0.73s
+2025-05-27 20:52:05,459 - INFO - HTTP Request: POST https://api.elevenlabs.io/v1/text-to-speech/sXXU5CoXEMsIqocfPUh2/stream "HTTP/1.1 200 OK"
+2025-05-27 20:52:05,512 - INFO - 🎤 TTS chunk time: 0.66s
+2025-05-27 20:52:05,514 - INFO - ✅ Total GPT-to-TTS stream time: 4.62s
