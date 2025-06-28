@@ -10,7 +10,7 @@ import os
 
 # llama_parse = LlamaParse(api_key=os.getenv("LLAMAPARSE_API_KEY"))
 
-PDF_PATH = "SSIP_Brochure.pdf"
+PDF_PATH = "attention_is_all_you_need.pdf"
 vectorstore = None
 
 def doc_parser(pdf_path,):
